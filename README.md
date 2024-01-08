@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2025JGOZAR
 - 👀 I’m interested in buildings systems that would automate trading on financial exchanges 
-- 🌱 The Basics (Python, C++, Java)
+- 🌱 Fluent in (Python, C++, Java)
 - 💞️ I’m looking to collaborate on Creating several trading bots that would be completly automated suchs as (DCA,Spot Grid, Futers)
 - 📫 How to reach me Plese send message to my email jgozar@bayschoolsohio.org
 
